@@ -43,4 +43,6 @@ $ npm install cors
 $ npx create-react-app frontend
 $ cd frontend
 $ npm start
+$ npm install react-icons
+$ npm install react-router-dom
 ```
